@@ -9,6 +9,8 @@ Dopamine is a research framework for fast prototyping of reinforcement learning 
 
 ### Blog Post: [http://kuldeepsinghsidhu.blogspot.com](http://kuldeepsinghsidhu.blogspot.com)
 
+### Google Colab: [https://colab.research.google.com/drive/1Fj_G_7DU-GIrojw2eY6M25lxp9IzjlAx](https://colab.research.google.com/drive/1Fj_G_7DU-GIrojw2eY6M25lxp9IzjlAx)
+
 
 ## CREDITS
 
